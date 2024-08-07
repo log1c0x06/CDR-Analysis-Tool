@@ -35,7 +35,7 @@ cd CDR-Analysis-Tool
 
 **Run the script:**
 ```sh
-python cdr_analysis_tool.py
+python CDR_Analysis.py
 ```
 
 ### For Debian-based GNU/Linux distributions
@@ -62,7 +62,7 @@ cd CDR-Analysis-Tool
 
 **Run the script:**
 ```sh
-python3 cdr_analysis_tool.py
+python3 CDR_Analysis.py
 ```
 
 ### For Windows
@@ -82,7 +82,7 @@ cd CDR-Analysis-Tool
 
 **Run the script:**
 ```sh
-python cdr_analysis_tool.py
+python CDR_Analysis.py
 ```
 
 ## License
